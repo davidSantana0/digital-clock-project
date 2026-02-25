@@ -1,6 +1,4 @@
-Essa é uma excelente iniciativa. Refinar a documentação (README) valoriza muito o seu portfólio, pois mostra que você não apenas sabe codar, mas também sabe explicar o seu raciocínio.
 
-Aqui está uma versão muito mais profissional, organizada e com aquele toque pessoal que você pediu sobre a sua evolução:
 
 ---
 
@@ -68,9 +66,3 @@ Você pode visualizar o projeto em funcionamento através do link abaixo:
 *Estudo de Fundamentos Web | Bugzin Sites 2025*
 
 ---
-
-### Dica de ouro:
-
-Se você quiser deixar o README ainda mais "pro", você pode tirar um **print da tela** do seu relógio e colocar uma imagem logo no início do arquivo!
-
-**Gostaria que eu te ajudasse a criar uma seção de "Próximos Passos" para listar o que você poderia melhorar nesse código hoje (como usar `Intl.DateTimeFormat`)?**
